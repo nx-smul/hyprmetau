@@ -1,1 +1,1 @@
-yay $(cat dep.lst)
+yay -Sy $(cat dep.lst)
